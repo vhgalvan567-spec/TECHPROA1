@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SeatworkTwelve",
+            "request": "launch",
+            "mainClass": "SeatworkTwelve",
+            "projectName": "TECHPROA1_a280bae5"
+        },
+        {
+            "type": "java",
             "name": "SeatworkFifteen",
             "request": "launch",
             "mainClass": "SeatworkFifteen",
