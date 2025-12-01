@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainProgram",
+            "request": "launch",
+            "mainClass": "MainProgram",
+            "projectName": "TECHPROA1_a280bae5"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "TECHPROA1_a280bae5"
+        },
+        {
+            "type": "java",
             "name": "Seatwork3",
             "request": "launch",
             "mainClass": "Seatwork3",
